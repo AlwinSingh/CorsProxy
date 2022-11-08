@@ -21,4 +21,4 @@ When making an API call using JavaScript:
 
 ## Demo
 
-1. This application has been deployed to Heroku. Access Link: https://secure-springs-38392.herokuapp.com/
+1. This application has been deployed to Heroku. Access Link: https://alwincorsproxy.herokuapp.com/
